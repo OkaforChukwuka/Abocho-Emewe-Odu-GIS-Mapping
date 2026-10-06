@@ -1,12 +1,34 @@
-# GIS Location Mapping — Abocho & Emewe-Odu
+<div align="center">
 
-### Dekina Local Government Area • Kogi State • Nigeria
+# 🗺️ GIS LOCATION MAPPING
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![GeoPandas](https://img.shields.io/badge/GeoPandas-GIS-green)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
-![GIS](https://img.shields.io/badge/Field-GIS-lightgrey)
-![Cartography](https://img.shields.io/badge/Focus-Cartography-purple)
+## Abocho & Emewe-Odu
+
+### Dekina LGA • Kogi State • Nigeria
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/GeoPandas-GIS-139C5A">
+  <img src="https://img.shields.io/badge/Matplotlib-Cartography-EA8C00">
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/GIS-Spatial%20Mapping-6C63FF">
+</p>
+
+**A Python-based GIS workflow for mapping Abocho and Emewe-Odu within Dekina Local Government Area, Kogi State, Nigeria.**
+
+</div>
+
+---
+
+## 🗺️ Final Map
+
+<p align="center">
+  <img src="maps/Abocho_Emewe_Odu_Location_Map.png" width="900">
+</p>
+
+<p align="center">
+  <b>Multi-level location map:</b> Nigeria → Kogi State → Dekina LGA → Abocho & Emewe-Odu
+</p>
 
 ---
 
